@@ -1,8 +1,4 @@
-/*
- *  Student Name: Sarah Li
- *  Student ID: 101073449
- *  Course Code: COMP1406C
- */
+// Authors: Dr. Mark Lanthier, Sarah Li
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
