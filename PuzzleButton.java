@@ -1,8 +1,4 @@
-/*
- *  Student Name: Sarah Li
- *  Student ID: 101073449
- *  Course Code: COMP1406C
- */
+// Authors: Dr. Mark Lanthier, Sarah Li
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
